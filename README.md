@@ -18,7 +18,7 @@ So, basically we're trying to detect the Object in the mentioned images/videos.
     - ImageNet will be our dataset for image classification.
     
     
-## 2. Object detectin:
+## 2. Object detection:
     - Based on salient features, object detection specifies the location of multiple objects in the image.
       1. Classification 
       2. Localization.
